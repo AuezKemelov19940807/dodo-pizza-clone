@@ -1,0 +1,425 @@
+[{
+        "id": 0,
+        "name": "Пепперони с грибами",
+        "products": ["Пикантная пепперони", "моцарелла", "шампиньоны", "фирменный соус альфредо"],
+        "imageSm": "https://dodopizza-a.akamaihd.net/static/Img/Products/d39d81a14a4c4965a610b7bf1a57dc4d_584x584.png",
+        "imageMd": "https://dodopizza-a.akamaihd.net/static/Img/Products/5901c998d4054941b54c541ff036d96b_584x584.png",
+        "imageMdThin": "https://dodopizza-a.akamaihd.net/static/Img/Products/3e6ee3795417446a9976f5b1397e8b7e_584x584.png",
+        "imageLg": "https://dodopizza-a.akamaihd.net/static/Img/Products/5684ebfc92fe4655933b3599e6e6ae64_584x584.png",
+        "imageLgThin": "https://dodopizza-a.akamaihd.net/static/Img/Products/039f623da0be47819c95107519999b92_584x584.png",
+        "types": [0, 1],
+        "size": [25, 30, 35],
+        "PriceSm": 2000,
+        "PriceMd": 3100,
+        "PriceLg": 3700,
+        "toppings": [{
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/7dc4f7eb691b437aa09c56aa133fb1d5.png",
+                "name": "Сырный бортик",
+                "price": 800,
+                "available": false
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111EA083CF38D509D",
+                "name": "Моцарелла",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9DBA9907841D1",
+                "name": "Чеддер и пармезан",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9DB9FFD8DC324",
+                "name": "Острый халапеньо",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9DB9FEDF53067",
+                "name": "Цыпленок",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/452036a3645641d1ba33144eeca95695.png",
+                "name": "Пикантная пепперони",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9DBA02B9BBDD1",
+                "name": "Ветчина",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9DBA8CF1B6A99",
+                "name": "Шампиньоны",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9EA89BCC6F9FC",
+                "name": "Маринованные огурчики",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A219740A95611E9DBA8BC1C500B",
+                "name": "Томаты",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9DBA7CF0CA5BA",
+                "name": "Острая чоризо",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9DBA9A2F798BE",
+                "name": "Брынза",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A219740A95611E9DBA9991993F3",
+                "name": "Сыр блю чиз",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A219740A95611E9DBA01C05EDA3",
+                "name": "Красный лук",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/47ac1845c2b249af9bcf037512f21dc8.png",
+                "name": "Итальянские травы",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A219740A95611E9DBA9090ADBEF",
+                "name": "Ананасы",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9DBA812EE9CE9",
+                "name": "Сладкий перец",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A219740A95611E9DBA006BD1D91",
+                "name": "Маслины",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/104a036ef57c4a998cb2d14a741d2f5d.png",
+                "name": "Митболы",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/573c6100b1664ada932514bb9db7775a.png",
+                "name": "Чеснок",
+                "price": 250,
+                "available": true
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Ветчина и огурчики",
+        "products": ["Соус ранч", "моцарелла", "ветчина из цыпленка", "маринованные огурчики", "красный лук"],
+        "imageSm": "https://dodopizza-a.akamaihd.net/static/Img/Products/3a195df2b4ec41a4a053ca0c0ec99349_584x584.png",
+        "imageMd": "https://dodopizza-a.akamaihd.net/static/Img/Products/16c818e33aab41e8b7dd96a76938bd00_584x584.png",
+        "imageMdThin": "https://dodopizza-a.akamaihd.net/static/Img/Products/3e6ee3795417446a9976f5b1397e8b7e_584x584.png",
+        "imageLg": "https://dodopizza-a.akamaihd.net/static/Img/Products/924f70bdb25f459594c902537c4e9a21_584x584.png",
+        "imageLgThin": "https://dodopizza-a.akamaihd.net/static/Img/Products/3f034f5eb4cd4875a362d2dbd655f018_584x584.png",
+        "types": [0, 1],
+        "size": [25, 30, 35],
+        "PriceSm": 2000,
+        "PriceMd": 3100,
+        "PriceLg": 3700,
+        "toppings": [{
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/7dc4f7eb691b437aa09c56aa133fb1d5.png",
+                "name": "Сырный бортик",
+                "price": 800,
+                "available": false
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111EA083CF38D509D",
+                "name": "Моцарелла",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9DBA9907841D1",
+                "name": "Чеддер и пармезан",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9DB9FFD8DC324",
+                "name": "Острый халапеньо",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9DB9FEDF53067",
+                "name": "Цыпленок",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/452036a3645641d1ba33144eeca95695.png",
+                "name": "Пикантная пепперони",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9DBA02B9BBDD1",
+                "name": "Ветчина",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9DBA8CF1B6A99",
+                "name": "Шампиньоны",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9EA89BCC6F9FC",
+                "name": "Маринованные огурчики",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A219740A95611E9DBA8BC1C500B",
+                "name": "Томаты",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9DBA7CF0CA5BA",
+                "name": "Острая чоризо",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9DBA9A2F798BE",
+                "name": "Брынза",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A219740A95611E9DBA9991993F3",
+                "name": "Сыр блю чиз",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A219740A95611E9DBA01C05EDA3",
+                "name": "Красный лук",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/47ac1845c2b249af9bcf037512f21dc8.png",
+                "name": "Итальянские травы",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A219740A95611E9DBA9090ADBEF",
+                "name": "Ананасы",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9DBA812EE9CE9",
+                "name": "Сладкий перец",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A219740A95611E9DBA006BD1D91",
+                "name": "Маслины",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/104a036ef57c4a998cb2d14a741d2f5d.png",
+                "name": "Митболы",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/573c6100b1664ada932514bb9db7775a.png",
+                "name": "Чеснок",
+                "price": 250,
+                "available": true
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Трюфельная",
+        "products": ["Ветчина", "трюфельный соус", "моцарелла", "красный лук", "чеснок", "шампиньоны и фирменный соус альфредо"],
+        "imageSm": "https://dodopizza-a.akamaihd.net/static/Img/Products/9934a65c2f3846dd989e359cacc72fb9_584x584.png",
+        "imageMd": "https://dodopizza-a.akamaihd.net/static/Img/Products/f32256e8cefd4655ae646f22cf83390d_584x584.png",
+        "imageMdThin": "https://dodopizza-a.akamaihd.net/static/Img/Products/bb0ff6d388344dac958cf00118a28449_584x584.png",
+        "imageLg": "https://dodopizza-a.akamaihd.net/static/Img/Products/59c9ba1589db4241a096127954d0cb52_584x584.png",
+        "imageLgThin": "https://dodopizza-a.akamaihd.net/static/Img/Products/2ea881b6555648b996f01490bbbd95ff_584x584.png",
+        "types": [0, 1],
+        "size": [25, 30, 35],
+        "PriceSm": 2100,
+        "PriceMd": 3200,
+        "PriceLg": 3900,
+        "toppings": [{
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/7dc4f7eb691b437aa09c56aa133fb1d5.png",
+                "name": "Сырный бортик",
+                "price": 800,
+                "available": false
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111EA083CF38D509D",
+                "name": "Моцарелла",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9DBA9907841D1",
+                "name": "Чеддер и пармезан",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9DB9FFD8DC324",
+                "name": "Острый халапеньо",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9DB9FEDF53067",
+                "name": "Цыпленок",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/452036a3645641d1ba33144eeca95695.png",
+                "name": "Пикантная пепперони",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9DBA02B9BBDD1",
+                "name": "Ветчина",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9DBA8CF1B6A99",
+                "name": "Шампиньоны",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9EA89BCC6F9FC",
+                "name": "Маринованные огурчики",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A219740A95611E9DBA8BC1C500B",
+                "name": "Томаты",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9DBA7CF0CA5BA",
+                "name": "Острая чоризо",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9DBA9A2F798BE",
+                "name": "Брынза",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A219740A95611E9DBA9991993F3",
+                "name": "Сыр блю чиз",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A219740A95611E9DBA01C05EDA3",
+                "name": "Красный лук",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/47ac1845c2b249af9bcf037512f21dc8.png",
+                "name": "Итальянские травы",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A219740A95611E9DBA9090ADBEF",
+                "name": "Ананасы",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A262427A95111E9DBA812EE9CE9",
+                "name": "Сладкий перец",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/000D3A219740A95611E9DBA006BD1D91",
+                "name": "Маслины",
+                "price": 250,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/104a036ef57c4a998cb2d14a741d2f5d.png",
+                "name": "Митболы",
+                "price": 350,
+                "available": true
+            },
+            {
+                "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/573c6100b1664ada932514bb9db7775a.png",
+                "name": "Чеснок",
+                "price": 250,
+                "available": true
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Миксик",
+        "products": ["Пицца четвертинками с ветчиной из цыпленка", "томатами", "брынзой", "моцареллой", "фирменным соусом альфредо.",
+            "Набор юного садовода в подарок"
+        ],
+        "imageSm": "https://dodopizza-a.akamaihd.net/static/Img/Products/bc91bd0c232040f39e3b3cf7e52f1a26_584x584.png",
+        "size": [25],
+        "PriceSm": 2200,
+        "toppings": [{
+            "image": "https://dodopizza-a.akamaihd.net/static/Img/Ingredients/452036a3645641d1ba33144eeca95695.png",
+            "name": "Пикантная пепперони",
+            "price": 350,
+            "available": true
+        }]
+    }
+]
